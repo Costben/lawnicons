@@ -1297,7 +1297,6 @@
   <item component="ComponentInfo{com.fox2code.mmm.fdroid/com.fox2code.mmm.MainActivity}" drawable="fox_mmm" name="Fox's Magisk Module Manager" />
   <item component="ComponentInfo{com.fox2code.mmm/com.fox2code.mmm.MainActivity}" drawable="fox_mmm" name="Fox's Magisk Module Manager" />
   <item component="ComponentInfo{com.xs.fm/com.dragon.read.pages.splash.SplashActivity}" drawable="fqchangting" name="fqchangting" />
-  <item component="ComponentInfo{com.xs.fm/com.dragon.read.pages.splash.SplashActivity}" drawable="FqChangTing" name="FqChangTing" />
   <item component="ComponentInfo{de.congstar.fraenk/de.congstar.fraenk.MainActivity}" drawable="fraenk" name="fraenk" />
   <item component="ComponentInfo{com.franco.kernel/a.spl/com.franco.kernel.activities.SplashActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
   <item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
@@ -3326,7 +3325,6 @@
   <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" name="SD Maid 2/SE" />
   <item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal" name="Seal" />
   <item component="ComponentInfo{com.jwg.searchEVO/com.jwg.searchEVO.MainActivity}" drawable="searchevo" name="searchevo" />
-  <item component="ComponentInfo{com.jwg.searchEVO/com.jwg.searchEVO.MainActivity}" drawable="searchEVO" name="searchEVO" />
   <item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.launcher.view.LauncherActivity}" drawable="secure_folder" name="Secure Folder" />
   <item component="ComponentInfo{com.sennheiser.control/com.tns.NativeScriptActivity}" drawable="sennheiser_smart_control" name="Sennheiser Smart Control" />
   <item component="ComponentInfo{imoblife.androidsensorbox/imoblife.androidsensorbox.SplashActivity}" drawable="sensor_box" name="Sensor Box" />

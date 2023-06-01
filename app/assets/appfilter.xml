@@ -2090,6 +2090,7 @@
   <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan" name="meituan" />
   <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_waimai" name="Meituan Waimai" />
   <item component="ComponentInfo{io.github.huskydg.memorydetector/io.github.huskydg.memorydetector.MainActivity}" drawable="memorydetector" name="MemoryDetector" />
+  <item component="ComponentInfo{org.chromium.webapk.aa69f4592f1e62360_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="memos" name="memos" />
   <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversation.FirstActivity}" drawable="messages" name="Messages" />
   <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" name="Messages" />
   <item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="messages" name="Messages" />

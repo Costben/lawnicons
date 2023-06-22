@@ -127,6 +127,7 @@
   <item component="ComponentInfo{de.eplus.mappecc.client.android.alditalk/de.eplus.mappecc.client.android.ui.MainMenuActivity}" drawable="aldi_talk" name="Aldi Talk" />
   <item component="ComponentInfo{ch.admin.babs.alertswiss/ch.admin.babs.alertswiss.MainActivity}" drawable="alert_swiss" name="AlertSwiss" />
   <item component="ComponentInfo{com.alfamart.alfagift/com.alfamart.alfagift.screen.splash.SplashActivity}" drawable="alfagift" name="Alfagift" />
+  <item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}" drawable="alibaba" name="alibaba" />
   <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress" name="AliExpress" />
   <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}" drawable="aliexpress" name="AliExpress" />
   <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.SplashActivity}" drawable="aliexpress" name="AliExpress" />
@@ -888,6 +889,7 @@
   <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll" name="Crunchyroll" />
   <item component="ComponentInfo{de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity}" drawable="crypto_prices" name="Crypto Prices / Krypto Preise" />
   <item component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}" drawable="credit_mutuel" name="Crédit Mutuel" />
+  <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip" name="ctrip" />
   <item component="ComponentInfo{com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity}" drawable="curiosity_stream" name="Curiosity Stream" />
   <item component="ComponentInfo{com.curiosity.curiositystream/com.curiosity.curiositystream.MainActivity}" drawable="curiosity_stream" name="Curiosity Stream" />
   <item component="ComponentInfo{de.salomax.currencies/de.salomax.currencies.view.main.MainActivity}" drawable="currencies" name="Currencies" />
@@ -1165,6 +1167,7 @@
   <item component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.OverviewActivity}" drawable="feeel" name="Feeel" />
   <item component="ComponentInfo{com.enjoyingfoss.feeel/io.flutter.embedding.android.FlutterActivity}" drawable="feeel" name="Feeel" />
   <item component="ComponentInfo{com.feit.smart/com.tuya.smart.hometab.activity.FamilyHomeActivity}" drawable="feit_electric" name="Feit Electric" />
+  <item component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}" drawable="feizu" name="feizu" />
   <item component="ComponentInfo{com.fenbi.android.servant/com.fenbi.android.module.welcome.WelcomeActivity}" drawable="fenbi" name="Fenbi" />
   <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="firefox" name="Fennec" />
   <item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater" name="FFUpdater" />
@@ -1976,6 +1979,7 @@
   <item component="ComponentInfo{com.logseq.app/com.logseq.app.MainActivity}" drawable="logseq" name="Logseq" />
   <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" name="Loop Habit Tracker" />
   <item component="ComponentInfo{love.lovebox.loveboxapp/love.lovebox.loveboxapp.MainActivity}" drawable="lovebox" name="Lovebox" />
+  <item component="ComponentInfo{org.lsposed.lspatch/org.lsposed.lspatch.ui.activity.MainActivity}" drawable="lspatch" name="lspatch" />
   <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" name="LSPosed Manager" />
   <item component="ComponentInfo{com.luckyzyx.luckytool/com.luckyzyx.luckytool.Hide}" drawable="luckytool" name="luckytool" />
   <item component="ComponentInfo{io.materialdesign.catalog/io.materialdesign.catalog.main.MainActivity}" drawable="material_catalog" name="M3 Catalog" />
@@ -2511,6 +2515,7 @@
   <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="offi_plans" name="Offi Plans" />
   <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="offi_stations" name="Offi Stations" />
   <item component="ComponentInfo{com.mobisystems.office/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="office_suite" name="OfficeSuite" />
+  <item component="ComponentInfo{com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity}" drawable="oho" name="oho" />
   <item component="ComponentInfo{com.okta.android.auth/com.okta.android.auth.activity.SplashActivity}" drawable="okta_verify" name="Okta Verify" />
   <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="ola_cabs" name="Ola Cabs" />
   <item component="ComponentInfo{com.olacabs.lite/com.olacabs.lite.SplashActivity}" drawable="ola_cabs" name="Ola Cabs" />
@@ -3134,6 +3139,7 @@
   <item component="ComponentInfo{io.github.quillpad/org.qosp.notes.ui.MainActivity}" drawable="quillpad" name="Quillpad" />
   <item component="ComponentInfo{se.maginteractive.quizduel2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="quizduel" name="Quizduel" />
   <item component="ComponentInfo{se.maginteractive.quizduel2/com.unity3d.player.UnityPlayerActivity}" drawable="quizduel" name="Quizduel" />
+  <item component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}" drawable="quna" name="quna" />
   <item component="ComponentInfo{com.quora.android/.components.activities.LauncherActivity}" drawable="quora" name="Quora" />
   <item component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}" drawable="quora" name="Quora" />
   <item component="ComponentInfo{com.quora.android/com.quora.android.LauncherActivity}" drawable="quora" name="Quora" />

@@ -4621,6 +4621,7 @@
   <item component="ComponentInfo{com.xda.labs.play/com.xda.labs.ForumLauncher}" drawable="xda" name="XDA" />
   <item component="ComponentInfo{com.xda.labs.play/com.xda.labs.one.ui.MainActivity}" drawable="xda" name="XDA" />
   <item component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}" drawable="xda" name="XDA" />
+  <item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xhs" name="xhs" />
   <item component="ComponentInfo{m365.xiaodash.scooter/m365.xiaodash.scooter.ui.activity.MainActivity}" drawable="xiaodash" name="Xiaodash" />
   <item component="ComponentInfo{web1n.stopapp/web1n.stopapp.activity.MainActivity}" drawable="xiaohei" name="xiaohei" />
   <item component="ComponentInfo{com.kingosoft.activity_kb_common/com.kingosoft.activity_kb_common.LogoImageActivity}" drawable="xiqueer" name="XIQUEER" />

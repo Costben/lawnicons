@@ -1046,6 +1046,7 @@
   <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}" drawable="download" name="Downloads" />
   <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.TrampolineActivity}" drawable="download" name="Downloads" />
   <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="download" name="Downloads" />
+  <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}" drawable="dqd" name="dqd" />
   <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="drastic" name="DraStic" />
   <item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}" drawable="pencil" name="Draw" />
   <item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Orange}" drawable="pencil" name="Draw" />

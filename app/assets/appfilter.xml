@@ -1332,6 +1332,7 @@
   <item component="ComponentInfo{com.Funimation.FunimationNow/com.Funimation.FunimationNow.activities.FunLauncherActivity}" drawable="funimation" name="Funimation" />
   <item component="ComponentInfo{com.Funimation.FunimationNow/com.funimation.ui.splash.SplashActivity_}" drawable="funimation" name="Funimation" />
   <item component="ComponentInfo{com.Funimation.FunimationNow/com.funimation.ui.splash.SplashActivity}" drawable="funimation" name="Funimation" />
+  <item component="ComponentInfo{io.virtualapp.sandvxposed64/com.sk.desktop.SKDesktop}" drawable="fuxi" name="fuxi" />
   <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx_file_explorer" name="FX" />
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.Main}" drawable="galaxy_store" name="Galaxy Store" />
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_store" name="Galaxy Store" />

@@ -4710,6 +4710,7 @@
   <item component="ComponentInfo{com.xiaolian.prometheus/com.xiaolian.launch.ui.SplashActivity}" drawable="xiaolian" name="Zhihui Xiaolian" />
   <item component="ComponentInfo{com.zipmex/com.zipmex.features.splash.LauncherEntryActivity}" drawable="zipmex" name="Zipmex" />
   <item component="ComponentInfo{com.positron_it.zlib/com.positron_it.zlib.ui.main.MainActivity}" drawable="zlib" name="Zlib" />
+  <item component="ComponentInfo{com.huodao.hdphone/com.huodao.hdphone.mvp.view.main.NewMainActivity}" drawable="zlj" name="zlj" />
   <item component="ComponentInfo{com.juexiao.cpa/com.juexiao.cpa.ui.LaunchActivity}" drawable="zljcpa" name="zljcpa" />
   <item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomoto" name="Zomoto" />
   <item component="ComponentInfo{com.application.zomato/com.application.zomato.Splash}" drawable="zomoto" name="Zomoto" />

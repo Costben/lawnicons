@@ -3174,6 +3174,7 @@
   <item component="ComponentInfo{io.raindrop.raindropio/io.raindrop.raindropio.StartActivity}" drawable="raindrop" name="Raindrop" />
   <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar" name="RAR" />
   <item component="ComponentInfo{com.mlk.rockamring/com.appmiral.splash.SplashActivity}" drawable="rock_am_ring" name="RAR &amp; RIP" />
+  <item component="ComponentInfo{com.example.raylink_flutter/com.example.raylink_flutter.MainActivity}" drawable="raylink" name="raylink" />
   <item component="ComponentInfo{com.yxer.packageinstalles/com.yxer.packageinstalles.MainUiActivity}" drawable="raz" name="raz" />
   <item component="ComponentInfo{me.ash.reader/me.ash.reader.MainActivity}" drawable="read_you" name="Read You" />
   <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="read_era" name="ReadEra" />

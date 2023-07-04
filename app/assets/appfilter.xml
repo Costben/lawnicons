@@ -3101,6 +3101,7 @@
   <item component="ComponentInfo{ru.pyaterochka.app.browser/ru.pyaterochka.app.launch.Launcher}" drawable="pyaterochka" name="Pyaterochka" />
   <item component="ComponentInfo{ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity}" drawable="pydroid" name="Pydroid 3" />
   <item component="ComponentInfo{qibla.compass.finddirection.hijricalendar/qibla.compass.finddirection.hijricalendar.activities.SplashActivity}" drawable="qibla_direction" name="Qibla Direction" />
+  <item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qidian" name="qidian" />
   <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms" name="QKSMS" />
   <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Black}" drawable="qksms" name="QKSMS" />
   <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Blue}" drawable="qksms" name="QKSMS" />

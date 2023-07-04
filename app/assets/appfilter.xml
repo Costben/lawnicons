@@ -1663,6 +1663,7 @@
   <item component="ComponentInfo{pl.pkobp.iko/pl.pkobp.iko2.startup.activity.SplashActivity}" drawable="iko" name="IKO" />
   <item component="ComponentInfo{pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity}" drawable="iko" name="IKO" />
   <item component="ComponentInfo{pl.pkobp.iko/pl.pkobp.iko.startup.activity.StartupActivity}" drawable="iko" name="IKO" />
+  <item component="ComponentInfo{com.vyroai.aiart/com.vyroai.aiart.ui.activity.ImagineActivity}" drawable="imagine" name="imagine" />
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" name="IMDb" />
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.Home}" drawable="imdb" name="IMDb" />
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.IMDb}" drawable="imdb" name="IMDb" />

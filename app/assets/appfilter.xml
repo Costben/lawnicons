@@ -1737,6 +1737,7 @@
   <item component="ComponentInfo{top.jtmonster.jhentai/top.jtmonster.jhentai.MainActivity}" drawable="jhentai" name="jhentai" />
   <item component="ComponentInfo{com.lemon.lv/com.vega.main.MainActivity}" drawable="jianying" name="jianying" />
   <item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsi" name="Jitsi Meet" />
+  <item component="ComponentInfo{opensource.jasmine/com.u8.sdk.U8UnityContext}" drawable="jm" name="jm" />
   <item component="ComponentInfo{o.o.joey/o.o.joey.Activities.HomeActivity}" drawable="joey_reddit" name="Joey" />
   <item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" name="Joplin" />
   <item component="ComponentInfo{de.prosiebensat1digital.seventv/de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity}" drawable="joyn" name="Joyn" />
@@ -2934,6 +2935,7 @@
   <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart" name="Picsart" />
   <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.StartActivity}" drawable="picsart" name="Picsart" />
   <item component="ComponentInfo{com.sorincovor.pigments/com.sorincovor.pigments.MainActivity}" drawable="pigments" name="Pigments" />
+  <item component="ComponentInfo{opensource.pikapika/com.u8.sdk.U8UnityContext}" drawable="pikapika" name="pikapika" />
   <item component="ComponentInfo{com.pikcloud.pikpak/com.pikcloud.app.SplashActivity}" drawable="pikpak" name="PikPak" />
   <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" name="Pinterest" />
   <item component="ComponentInfo{com.pinterest/com.pinterest.activity.ExperimentPinterestActivity}" drawable="pinterest" name="Pinterest" />

@@ -4446,7 +4446,7 @@
   <item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="webtoon" name="WEBTOON" />
   <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" name="WeChat" />
   <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.WeChatActivity}" drawable="wechat" name="WeChat" />
-  <item component="ComponentInfo{com.tencent.wetype/com.tencent.wetype.plugin.hld.ui.HldSettingsUI}" drawable="wechatkeyboard" name="wechatkeyboard" />
+  <item component="ComponentInfo{com.tencent.wetype/com.tencent.wetype.plugin.hld.reactnative.activity.ImeMainSettingActivity}" drawable="wechatkeyboard" name="wechatkeyboard" />
   <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo" name="Weibo" />
   <item component="ComponentInfo{com.sina.weibocare/com.weico.international.activity.LogoActivity}" drawable="weibo" name="WeiboBig" />
   <item component="ComponentInfo{com.sina.weibolite/com.sina.weibolite.appicon_white}" drawable="weibo" name="WeiboFast" />

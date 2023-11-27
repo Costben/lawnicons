@@ -1266,7 +1266,7 @@
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.Flipkart}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{com.dslit.floatingclock/com.dslit.floatingclock.MainActivity}" drawable="clock" name="Floating Clock" />
-  <item component="ComponentInfo{com.floatplane.floatplane/com.floatplane.floatplane.MainActivity}" drawable="floatplane" name="Floatplane" />
+  <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.tmgp.speedmobile.speedmobile}" drawable="floatplane" name="Floatplane" />
   <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" name="Florisboard" />
   <item component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" name="Florisboard Beta" />
   <item component="ComponentInfo{dev.patrickgold.florisboard.debug/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" name="Florisboard Debug" />
